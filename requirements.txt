@@ -1,2 +1,4 @@
+cffi
+cryptography
 pyrogram
-tgcrypto
+TgCrypto
